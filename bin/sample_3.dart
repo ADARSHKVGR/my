@@ -13,6 +13,7 @@ void main(){
    //string interpolation  ${variablename}
    print('my name is $name');
    print('I am $age yrs old');
-   stdout.write("Mark percentage is $mark");
-   stdout.write('\tmy email id is $email');
+   print("Mark percentage is $mark");
+   print('my email id is $email');
+   print('my phone no is $phone');
 }
