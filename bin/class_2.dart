@@ -11,11 +11,11 @@ class Mobile
 }
 void main()
 {
-  Mobile Demo1=Mobile();
-  print("Mobile model :${Demo1.model ="nord"}");
-  print("Mobile ram   :${Demo1.ram  =4} ");
+  Mobile demo1=Mobile();
+  print("Mobile model :${demo1.model ="nord"}");
+  print("Mobile ram   :${demo1.ram  =4} ");
   print("Mobile brand :${Mobile.brand}");
-  Demo1.show();
+  demo1.show();
 }
 
 
